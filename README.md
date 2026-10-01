@@ -21,8 +21,7 @@ flutter test
 
 รันบนเว็บ: ดับเบิลคลิก `run_web.bat` แล้วเปิด http://localhost:8080
 
-## Screenshots
-
+## Screenshots ให้ AI แคปจอให้
 | Tasks | Add | Validation |
 |---|---|---|
 | ![](screenshots/01_tasks_page.png) | ![](screenshots/02_add_page.png) | ![](screenshots/03_add_validation.png) |
